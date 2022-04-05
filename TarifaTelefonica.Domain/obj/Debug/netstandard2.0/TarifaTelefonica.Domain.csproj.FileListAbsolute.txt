@@ -1,0 +1,9 @@
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\bin\Debug\netstandard2.0\TarifaTelefonica.Domain.deps.json
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\bin\Debug\netstandard2.0\TarifaTelefonica.Domain.dll
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\bin\Debug\netstandard2.0\TarifaTelefonica.Domain.pdb
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.csprojAssemblyReference.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.AssemblyInfoInputs.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.AssemblyInfo.cs
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.dll
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.Domain\obj\Debug\netstandard2.0\TarifaTelefonica.Domain.pdb

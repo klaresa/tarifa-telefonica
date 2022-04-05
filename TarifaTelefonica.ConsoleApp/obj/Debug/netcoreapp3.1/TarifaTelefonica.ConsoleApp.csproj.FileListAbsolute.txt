@@ -1,0 +1,16 @@
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.exe
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.deps.json
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.runtimeconfig.json
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.runtimeconfig.dev.json
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.dll
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.pdb
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.Domain.dll
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\bin\Debug\netcoreapp3.1\TarifaTelefonica.Domain.pdb
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.AssemblyInfo.cs
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.csproj.CopyComplete
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.dll
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.pdb
+C:\Users\klari\source\repos\TarifaTelefonica\TarifaTelefonica.ConsoleApp\obj\Debug\netcoreapp3.1\TarifaTelefonica.ConsoleApp.genruntimeconfig.cache

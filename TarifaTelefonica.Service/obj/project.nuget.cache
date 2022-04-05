@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BlHEdw4XYrmPOz1m2bx+ysZKZWh5uLj66E/2Yf06ugJqwveg5zxZdFz3/KepUB15k8zRJv+Xf3K3cvf5Z1AoaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klari\\source\\repos\\TarifaTelefonica\\TarifaTelefonica.Service\\TarifaTelefonica.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
